@@ -1,0 +1,33 @@
+body {
+    background: #00d8ff;
+}
+
+img {
+    width: 410px;
+}
+
+p {
+    width: 410px;
+    text-align: center
+}
+
+.wrapper {
+    background: #fff;
+    width: 410px;
+    padding: 20px 80px;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+a {
+    background: rgb(137, 0, 255);
+    padding: 6px 15px;
+    color: #fff;
+    text-decoration: overline;
+    border-radius: 5px;
+    transition: 1.5s;
+}
+
+a:hover {
+    background: #00d8ff;
+}
